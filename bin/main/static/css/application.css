@@ -1,0 +1,18 @@
+table thead th {
+    white-space: nowrap;
+}
+
+form.object-show-form .form-control {
+	border: none;
+    border-radius: 0;
+	border-bottom: 1px solid lightgray;
+}
+
+
+.alert {
+    padding: .4rem 1.25rem;
+}
+
+.alert-dismissible .close, .alert-dismissible .mailbox-attachment-close {
+    padding: .4rem 1.25rem;
+}
